@@ -1,5 +1,0 @@
-C:/Users/Anand John/Documents/GitHub/Pupil-April-Tags-MOE-Edits/apriltags-source/CMakeFiles/apriltag.dir
-C:/Users/Anand John/Documents/GitHub/Pupil-April-Tags-MOE-Edits/apriltags-source/CMakeFiles/apriltag_demo.dir
-C:/Users/Anand John/Documents/GitHub/Pupil-April-Tags-MOE-Edits/apriltags-source/CMakeFiles/INSTALL.dir
-C:/Users/Anand John/Documents/GitHub/Pupil-April-Tags-MOE-Edits/apriltags-source/CMakeFiles/ALL_BUILD.dir
-C:/Users/Anand John/Documents/GitHub/Pupil-April-Tags-MOE-Edits/apriltags-source/CMakeFiles/ZERO_CHECK.dir
